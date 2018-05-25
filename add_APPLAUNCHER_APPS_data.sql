@@ -37,3 +37,4 @@ BEGIN
 END
 endofscript:
 go
+go
